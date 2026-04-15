@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1775643418154" clover="3.2.0">
+  <project timestamp="1775643418154" name="All files">
+    <metrics statements="16" coveredstatements="14" conditionals="6" coveredconditionals="6" methods="8" coveredmethods="6" elements="30" coveredelements="26" complexity="0" loc="16" ncloc="16" packages="1" files="3" classes="3"/>
+    <file name="TaskForm.tsx" path="/Users/amey.mirashi/Desktop/Task Manager /Task_Manager/src/components/TaskForm.tsx">
+      <metrics statements="9" coveredstatements="9" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="3"/>
+      <line num="12" count="45" type="stmt"/>
+      <line num="18" count="45" type="stmt"/>
+      <line num="19" count="5" type="stmt"/>
+      <line num="22" count="5" type="stmt"/>
+      <line num="24" count="5" type="cond" truecount="2" falsecount="0"/>
+      <line num="25" count="3" type="stmt"/>
+      <line num="26" count="3" type="stmt"/>
+      <line num="31" count="45" type="stmt"/>
+      <line num="36" count="38" type="stmt"/>
+    </file>
+    <file name="TaskItem.tsx" path="/Users/amey.mirashi/Desktop/Task Manager /Task_Manager/src/components/TaskItem.tsx">
+      <metrics statements="3" coveredstatements="1" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="1"/>
+      <line num="14" count="2" type="stmt"/>
+      <line num="21" count="0" type="stmt"/>
+      <line num="31" count="0" type="stmt"/>
+    </file>
+    <file name="TaskList.tsx" path="/Users/amey.mirashi/Desktop/Task Manager /Task_Manager/src/components/TaskList.tsx">
+      <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+      <line num="16" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="17" count="1" type="stmt"/>
+      <line num="20" count="1" type="stmt"/>
+      <line num="23" count="2" type="stmt"/>
+    </file>
+  </project>
+</coverage>
